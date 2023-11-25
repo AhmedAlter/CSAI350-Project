@@ -1,0 +1,579 @@
+{
+  "introduction": {
+    "question": "What is your name?",
+    "response": "My name is ChatBot. How can I assist you today?"
+  },
+  "greeting": {
+    "question": [
+      "Hello",
+      "Hi",
+      "Hey"
+    ],
+    "response": "Hello! How can I help you?"
+  },
+  "age": {
+    "question": "How old are you?",
+    "response": "I don't have an age. I'm just a computer program here to assist you."
+  },
+  "weather": {
+    "question": [
+      "What's the weather like today?",
+      "How's the weather?"
+    ],
+    "response": "I'm sorry, I don't have real-time information. You can check a weather website or app for the current conditions."
+  },
+  "purpose": {
+    "question": "What is your purpose?",
+    "response": "I am here to help answer your questions and provide information to the best of my ability."
+  },
+  "favorites": {
+    "question": "What are your favorite things?",
+    "response": "I don't have personal preferences as I am just a program, but I'm here to assist you with anything you need!"
+  },
+  "goodbye": {
+    "question": [
+      "Goodbye",
+      "Farewell",
+      "See you later"
+    ],
+    "response": "Goodbye! If you have more questions, feel free to ask anytime."
+  },
+  "time": {
+    "question": [
+      "What time is it?",
+      "Can you tell me the time?"
+    ],
+    "response": "I'm sorry, I don't have access to real-time information, including the current time. You can check your device or search online for the current time."
+  },
+  "compliment": {
+    "question": [
+      "You're cool",
+      "You're awesome"
+    ],
+    "response": "Thank you! I'm here to assist you in any way I can."
+  },
+  "programming": {
+    "question": [
+      "Can you code?",
+      "Do you know programming?"
+    ],
+    "response": "I don't code myself, but I can certainly help you with coding-related questions and information."
+  },
+  "meaning_of_life": {
+    "question": "What is the meaning of life?",
+    "response": "The meaning of life is a subjective question and can vary from person to person. It's a philosophical topic that people have contemplated for centuries."
+  },
+  "hobbies": {
+    "question": [
+      "What do you do for fun?",
+      "Do you have any hobbies?"
+    ],
+    "response": "I don't have hobbies as I'm a program, but I enjoy helping and providing information. What about you? Do you have any favorite hobbies?"
+  },
+  "movies": {
+    "question": [
+      "What's your favorite movie?",
+      "Can you recommend a movie?"
+    ],
+    "response": "I don't have personal preferences, but I can recommend popular movies based on genres you like. What genre are you in the mood for?"
+  },
+  "music": {
+    "question": [
+      "What's your favorite music?",
+      "Can you recommend a song?"
+    ],
+    "response": "I don't have personal music preferences, but I can suggest music based on your taste. What genre or artist do you enjoy?"
+  },
+  "book_recommendation": {
+    "question": [
+      "Can you recommend a book?",
+      "What's a good book to read?"
+    ],
+    "response": "Certainly! What genre are you interested in? Mystery, fantasy, science fiction, or something else?"
+  },
+  "technology": {
+    "question": [
+      "Tell me about the latest technology news",
+      "What's new in tech?"
+    ],
+    "response": "I don't have real-time updates, but I can provide general information about recent technology trends. Is there a specific area of technology you're interested in?"
+  },
+  "learning": {
+    "question": [
+      "How can I learn new things?",
+      "Any tips for learning?"
+    ],
+    "response": "Learning is a lifelong journey! Set clear goals, break them into smaller tasks, and stay curious. Online courses, books, and interactive tutorials can be great resources. What are you interested in learning?"
+  },
+  "travel": {
+    "question": [
+      "Tell me about a great travel destination",
+      "Where should I travel next?"
+    ],
+    "response": "There are so many amazing places to explore! It depends on your interests. Are you looking for a relaxing beach vacation, a cultural experience, or an adventure in nature?"
+  },
+  "food_recommendation": {
+    "question": [
+      "Can you recommend a good restaurant?",
+      "What should I have for dinner?"
+    ],
+    "response": "Certainly! What type of cuisine are you in the mood for? Italian, Chinese, Mexican, or something else?"
+  },
+  "inspiration": {
+    "question": [
+      "I need inspiration",
+      "Give me some motivation"
+    ],
+    "response": "You're capable of amazing things! Take a break, reflect on your goals, and take small steps. Progress, no matter how small, is still progress. What are you working on?"
+  },
+  "sports": {
+    "question": [
+      "Do you like sports?",
+      "Tell me about a popular sport"
+    ],
+    "response": "I don't have personal preferences, but I can provide information about various sports. Is there a specific sport you're interested in?"
+  },
+  "pets": {
+    "question": [
+      "Do you like pets?",
+      "Tell me about a cute animal"
+    ],
+    "response": "I don't have feelings, but many people enjoy the companionship of pets. Dogs and cats are popular choices. Do you have a favorite animal?"
+  },
+  "technology_help": {
+    "question": [
+      "Can you help me with my computer?",
+      "I'm having tech issues"
+    ],
+    "response": "Of course! I'll do my best to help. What specific issue are you experiencing with your computer or device?"
+  },
+  "science": {
+    "question": [
+      "Tell me an interesting science fact",
+      "What's the latest in science?"
+    ],
+    "response": "Sure! Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible."
+  },
+  "history": {
+    "question": [
+      "Tell me an interesting historical fact",
+      "What happened on this day in history?"
+    ],
+    "response": "On this day in history, many significant events may have occurred. Is there a specific date or historical period you're interested in?"
+  },
+  "philosophy": {
+    "question": [
+      "What is your philosophy?",
+      "Do you have a life philosophy?"
+    ],
+    "response": "I don't have personal beliefs or philosophies. My purpose is to assist and provide information. Do you have any specific philosophical questions or topics you'd like to discuss?"
+  },
+  "random_fact": {
+    "question": [
+      "Tell me a random fact",
+      "Give me some trivia"
+    ],
+    "response": "Sure, here's a random fact: The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes!"
+  },
+  "dreams": {
+    "question": [
+      "Do you dream?",
+      "Tell me about dreams"
+    ],
+    "response": "I don't dream as I don't have consciousness. However, dreams are fascinating experiences during sleep that can be influenced by various factors. Have you had any interesting dreams lately?"
+  },
+  "future": {
+    "question": [
+      "What do you think the future holds?",
+      "Predict the future"
+    ],
+    "response": "Predicting the future is challenging, as it depends on various factors and uncertainties. What specific aspect of the future are you curious about?"
+  },
+  "coding_help": {
+    "question": [
+      "Can you help me with coding?",
+      "I'm stuck in my code"
+    ],
+    "response": "Absolutely! I'd be happy to help. Please share the code snippet or describe the issue you're facing, and I'll do my best to assist you."
+  },
+  "mindfulness": {
+    "question": [
+      "How can I practice mindfulness?",
+      "Give me mindfulness tips"
+    ],
+    "response": "Practicing mindfulness involves being present in the moment. Try deep breathing, meditation, or simply paying attention to your surroundings. What specific mindfulness practice are you interested in?"
+  },
+  "movie_quotes": {
+    "question": [
+      "Tell me a famous movie quote",
+      "Do you know any movie quotes?"
+    ],
+    "response": "Sure! Here's a classic one: 'May the Force be with you.' Can you guess which movie that quote is from?"
+  },
+  "superpower": {
+    "question": [
+      "If you could have a superpower, what would it be?",
+      "What superpower do you want?"
+    ],
+    "response": "I don't have desires, but many people find the idea of flying or having super strength intriguing. What about you? If you could have any superpower, what would it be?"
+  },
+  "art": {
+    "question": [
+      "Do you like art?",
+      "Tell me about a famous artist"
+    ],
+    "response": "Art is a diverse and expressive form! Many admire the works of artists like Leonardo da Vinci or Vincent van Gogh. Is there a specific art style or artist you're interested in?"
+  },
+  "holiday_plans": {
+    "question": [
+      "Any plans for the holidays?",
+      "What are your holiday traditions?"
+    ],
+    "response": "I don't have personal plans or traditions, but I'm here to assist you. Do you have any exciting plans or traditions for the upcoming holidays?"
+  },
+  "mind_bender": {
+    "question": [
+      "Give me a mind-bending question",
+      "Challenge my mind"
+    ],
+    "response": "Sure, here's a mind-bender: If you could travel back in time and meet your younger self, what advice would you give?"
+  },
+  "futuristic_tech": {
+    "question": [
+      "Tell me about futuristic technology",
+      "What tech advancements can we expect?"
+    ],
+    "response": "The future of technology holds exciting possibilities, from AI advancements to space exploration. Is there a specific area of futuristic tech you're curious about?"
+  },
+  "language_learning": {
+    "question": [
+      "How can I learn a new language?",
+      "Give me language learning tips"
+    ],
+    "response": "Learning a new language takes practice and consistency. Try language apps, conversation partners, and immersion. What language are you interested in learning?"
+  },
+  "environment": {
+    "question": [
+      "Tell me about environmental issues",
+      "What can I do to help the environment?"
+    ],
+    "response": "Environmental issues are crucial. You can make a difference by reducing waste, conserving energy, and supporting eco-friendly practices. Is there a specific environmental topic you'd like more information on?"
+  },
+  "robotic_future": {
+    "question": [
+      "What do you think about the future of robotics?",
+      "Tell me about advancements in robotics"
+    ],
+    "response": "The future of robotics is promising, with advancements in AI, automation, and robotics. Is there a specific aspect of robotics you're interested in?"
+  },
+  "favorite_quote": {
+    "question": [
+      "Do you have a favorite quote?",
+      "Share a meaningful quote"
+    ],
+    "response": "I don't have personal favorites, but here's a meaningful quote: 'The only way to do great work is to love what you do.' \u2013 Steve Jobs. Do you have a favorite quote?"
+  },
+  "happiness": {
+    "question": [
+      "How can I be happier?",
+      "Give me tips for a happier life"
+    ],
+    "response": "Happiness is subjective, but practices like gratitude, positive thinking, and connecting with loved ones can contribute to a happier life. What brings you joy?"
+  },
+  "creativity": {
+    "question": [
+      "How can I boost my creativity?",
+      "Give me creativity tips"
+    ],
+    "response": "Creativity thrives with inspiration and an open mind. Try new experiences, explore different art forms, and embrace failure as part of the creative process. What creative endeavors are you interested in?"
+  },
+  "dream_vacation": {
+    "question": [
+      "Describe your dream vacation",
+      "Where would you love to travel?"
+    ],
+    "response": "I don't have personal preferences, but many people dream of relaxing on a tropical beach, exploring historic cities, or experiencing the wonders of nature. What about you? Where would your dream vacation be?"
+  },
+  "technology_trends": {
+    "question": [
+      "Tell me about current technology trends",
+      "What's trending in tech?"
+    ],
+    "response": "Technology trends evolve rapidly, from AI and machine learning to virtual reality. Is there a specific tech trend you're interested in?"
+  },
+  "mindfulness_practices": {
+    "question": [
+      "What are some mindfulness practices?",
+      "Give me mindfulness exercises"
+    ],
+    "response": "Mindfulness can be practiced through meditation, deep breathing, and mindful eating. Find what works best for you and incorporate it into your daily routine. Have you tried any mindfulness practices before?"
+  },
+  "space_exploration": {
+    "question": [
+      "Tell me about space exploration",
+      "What's happening in space research?"
+    ],
+    "response": "Space exploration is fascinating! From Mars missions to the study of exoplanets, there's a lot happening. Is there a specific space-related topic you're interested in?"
+  },
+  "science_fiction": {
+    "question": [
+      "Tell me about a great science fiction book",
+      "Recommend a sci-fi novel"
+    ],
+    "response": "Science fiction offers imaginative stories. 'Dune' by Frank Herbert and 'Neuromancer' by William Gibson are classics. What type of sci-fi are you interested in?"
+  },
+  "coding_languages": {
+    "question": [
+      "What coding language should I learn?",
+      "Recommend a programming language"
+    ],
+    "response": "The best language depends on your goals. Python is versatile, JavaScript is great for web development, and Java is widely used. What are you interested in building with coding?"
+  },
+  "virtual_assistants": {
+    "question": [
+      "Tell me about virtual assistants",
+      "How do virtual assistants work?"
+    ],
+    "response": "Virtual assistants use AI to understand and respond to user input."
+  },
+  "howru": {
+    "question": [
+      "how are you",
+      "how are you?"
+    ],
+    "response": "I'm doing great!! What about you?"
+  },
+  "sddd": {
+    "question": [
+      "write me a story",
+      "are you real"
+    ],
+    "response": "no"
+  },
+  "introduction1": {
+    "question": [
+      "What is your name?",
+      "Tell me your name"
+    ],
+    "response": "My name is ChatBot. How can I assist you today?"
+  },
+  "greeting1": {
+    "question": [
+      "Hello",
+      "Hi",
+      "Hey",
+      "How are you?",
+      "What's up?"
+    ],
+    "response": "Hello! How can I help you?"
+  },
+  "age1": {
+    "question": [
+      "How old are you?",
+      "What's your age"
+    ],
+    "response": "I don't have an age. I'm just a computer program here to assist you."
+  },
+  "friendly": {
+    "question": [
+      "How's your day going?",
+      "What's new?",
+      "Do you like chatting?",
+      "Tell me something interesting"
+    ],
+    "response": "I'm here and ready to chat! What would you like to talk about?"
+  },
+  "personal": {
+    "question": [
+      "Where are you from?",
+      "Tell me about yourself"
+    ],
+    "response": "I'm a virtual assistant here to help you. I don't have a physical location."
+  },
+  "favorites1": {
+    "question": [
+      "What's your favorite color?",
+      "Do you have a favorite movie?"
+    ],
+    "response": "I don't have personal preferences. My goal is to assist you with any information you need."
+  },
+  "technology1": {
+    "question": [
+      "What's the latest in technology?",
+      "Tell me about the newest gadgets"
+    ],
+    "response": "Technology is always evolving! I can help you with information on the latest trends and innovations."
+  },
+  "weather1": {
+    "question": [
+      "How's the weather today?",
+      "Tell me about the weather"
+    ],
+    "response": "I don't have real-time data, but I can provide general information or help you find a weather service."
+  },
+  "futur1e": {
+    "question": [
+      "What do you see in the future?",
+      "Predict the future"
+    ],
+    "response": "I can't predict the future, but I can provide information and assistance based on what we know now."
+  },
+  "philosophy1": {
+    "question": [
+      "What is the meaning of life?",
+      "Tell me about the purpose of existence"
+    ],
+    "response": "The meaning of life is subjective and varies for each person. What are your thoughts on this?"
+  },
+  "travel1": {
+    "question": [
+      "Favorite travel destination?",
+      "Best places to visit"
+    ],
+    "response": "I don't have personal preferences, but I can provide information on popular travel destinations and tips."
+  },
+  "hobbies1": {
+    "question": [
+      "Do you have any hobbies?",
+      "Tell me about your hobbies"
+    ],
+    "response": "I don't have hobbies, but I'm here to assist you with any questions or information you may need."
+  },
+  "food": {
+    "question": [
+      "Favorite food?",
+      "What's your go-to meal?"
+    ],
+    "response": "I don't have preferences, but I can help you find information about different cuisines or recipes."
+  },
+  "learning1": {
+    "question": [
+      "What's something new you've learned?",
+      "Tell me about your recent discoveries"
+    ],
+    "response": "I'm constantly learning and updating my knowledge base to better assist you. Is there anything specific you'd like to know?"
+  },
+  "random": {
+    "question": [
+      "Tell me a joke"
+    ],
+    "response": "you..."
+  },
+  "nature": {
+    "question": [
+      "What's your favorite season?",
+      "Favorite season",
+      "Do you like nature?",
+      "Like nature?"
+    ],
+    "response": "I don't have personal preferences, but I can share information about different seasons and the beauty of nature."
+  },
+  "books": {
+    "question": [
+      "Any book recommendations?",
+      "Book recommendations",
+      "What's your favorite book?",
+      "Favorite book"
+    ],
+    "response": "I don't have personal favorites, but I can recommend books based on your interests. What genre do you enjoy?"
+  },
+  "music1": {
+    "question": [
+      "Favorite music genre?",
+      "Music genre",
+      "Do you like listening to music?",
+      "Like listening to music"
+    ],
+    "response": "I don't have personal preferences, but I can help you discover new music or provide information about different genres."
+  },
+  "movies1": {
+    "question": [
+      "Any favorite movies?",
+      "Favorite movies",
+      "What's the best movie you've seen recently?",
+      "Best movie you've seen recently"
+    ],
+    "response": "I don't have personal favorites, but I can recommend movies based on your preferences. What type of movies do you enjoy?"
+  },
+  "art1": {
+    "question": [
+      "Do you like art?",
+      "Like art",
+      "Favorite art style?",
+      "Art style"
+    ],
+    "response": "I appreciate all forms of art! Whether it's painting, sculpture, or digital art, I can help you explore different artistic expressions."
+  },
+  "sports1": {
+    "question": [
+      "Favorite sport?",
+      "Favorite sport",
+      "Do you watch sports?",
+      "Watch sports"
+    ],
+    "response": "I don't have personal favorites, but I can provide information about various sports or help you find the latest scores and updates."
+  },
+  "dreams1": {
+    "question": [
+      "Do you dream?",
+      "Dream",
+      "What's the most interesting dream you've had?",
+      "Most interesting dream"
+    ],
+    "response": "I don't dream, but I'm curious about yours! What's the most memorable dream you can recall?"
+  },
+  "goals": {
+    "question": [
+      "Do you have any goals?",
+      "Goals",
+      "What are your aspirations?",
+      "Aspirations"
+    ],
+    "response": "I don't have personal goals, but I'm here to assist you in achieving yours. What are you working towards?"
+  },
+  "inspiratio1n": {
+    "question": [
+      "Where do you find inspiration?",
+      "Find inspiration",
+      "Tell me about something inspiring",
+      "Something inspiring"
+    ],
+    "response": "Inspiration can come from many sources. Is there a particular topic or person that inspires you?"
+  },
+  "history1": {
+    "question": [
+      "Favorite historical period?",
+      "Historical period",
+      "Do you like history?",
+      "Like history"
+    ],
+    "response": "I find history fascinating! I can provide information on various historical periods and events. What aspect of history interests you?"
+  },
+  "languages": {
+    "question": [
+      "How many languages do you speak?",
+      "Languages spoken",
+      "Do you know any languages?",
+      "Know any languages"
+    ],
+    "response": "I understand and can generate text in multiple languages, but I don't 'speak' in the traditional sense. How can I assist you with language-related queries?"
+  },
+  "science1": {
+    "question": [
+      "Favorite scientific discovery?",
+      "Scientific discovery",
+      "Do you like science?",
+      "Like science"
+    ],
+    "response": "Science is amazing! I can share information about various scientific discoveries and topics. What scientific field are you interested in?"
+  },
+  "technology_advancements": {
+    "question": [
+      "What recent technological advancements excite you?",
+      "Recent tech advancements",
+      "Tell me about the latest tech innovations",
+      "Latest tech innovations"
+    ],
+    "response": "There are always exciting developments in technology! Is there a specific area of technology you're curious about?"
+  }
+}
