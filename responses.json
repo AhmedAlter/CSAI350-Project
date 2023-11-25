@@ -575,5 +575,11 @@
       "Latest tech innovations"
     ],
     "response": "There are always exciting developments in technology! Is there a specific area of technology you're curious about?"
+  },
+    "tec": {
+    "question": [
+      "meow"
+    ],
+    "response": "meow meow ni***"
   }
 }
