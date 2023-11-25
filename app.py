@@ -1,13 +1,9 @@
 import streamlit as st
 import pinecone
 from sentence_transformers import SentenceTransformer
-from typorec import texto, generate_qr_code
+from typorec import texto
 import base64
 import json
-from streamlit_modal import Modal
-import streamlit.components.v1 as components
-from streamlit_javascript import st_javascript
-
 
 st.set_page_config(page_title="Chatbot", page_icon=":robot_face:", layout="wide")
 st.markdown('<style>' + open('static/styles.css').read() + '</style>', unsafe_allow_html=True)
@@ -25,12 +21,6 @@ st.header("ChatGTP: Where Infinite Curiosity Meets Infinite Conversations!")
 
 st.sidebar.title("CSCI 350 Project - Chatbot 🤖")
 
-modal = Modal(
-    "Scan the QR code!", 
-    key="demo-modal",
-    padding=20,    
-    max_width=350 
-)
 # About section
 st.sidebar.markdown("### About")
 st.sidebar.markdown("This is a chatbot designed for the Intro to AI Project. It can respond to specific prompts and engage in conversations with users that have been made by:")
@@ -45,14 +35,7 @@ st.sidebar.markdown("- [Streamlit](https://streamlit.io/)")
 
 st.sidebar.markdown("&nbsp;")
 st.sidebar.markdown("---")
-open_modal = st.sidebar.button("Generate QR Code")
-if open_modal:
-    modal.open()
-if modal.is_open():
-    with modal.container():
-        st.write("Sacn the code to use our chatbot in your browser!")
-        qr_image = generate_qr_code(url)
-        st.image(qr_image)
+
 if st.sidebar.button("New Conversation"):
     # Save the current conversation
     st.session_state.conversations.append(st.session_state.current_conversation.copy())
