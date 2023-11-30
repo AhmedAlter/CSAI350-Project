@@ -26,7 +26,7 @@ To run the MAGHA Chatbot locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/MAGHA-Chatbot.git
+   git clone https://github.com/AhmedAlter/CSAI350-Project
    ```
 
 2. Install dependencies:
