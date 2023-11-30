@@ -17,7 +17,7 @@
   },
   "weather": {
     "question": [
-      "What's the weather like today?",
+      "What's the weather today",
       "How's the weather?"
     ],
     "response": "I'm sorry, I don't have real-time information. You can check a weather website or app for the current conditions."
@@ -345,7 +345,7 @@
   },
   "sddd": {
     "question": [
-      "write me a story",
+      "tell me a story",
       "are you real"
     ],
     "response": "no"
@@ -576,10 +576,10 @@
     ],
     "response": "There are always exciting developments in technology! Is there a specific area of technology you're curious about?"
   },
-    "tec": {
+  "greeting11": {
     "question": [
-      "meow"
+      "im doing fine"
     ],
-    "response": "meow meow ni***"
-  }
+    "response": "I'm glad to hear that :)"
+}
 }
